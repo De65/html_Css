@@ -21,11 +21,14 @@ ul {
     justify-content: right;
     height: 5px;
     font-size: 1.5rem;
+    padding: 10px;
+    width: 100%;
 }
 
 .logo i {
     padding-right: 2rem;
     color: black;
+    padding: 8px;
 }
 
 .logo {
