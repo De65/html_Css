@@ -1,1 +1,1 @@
-This is my first Html/css project, I want to create a landing page
+Just for fun, playing around with html and css, later I will add javascript.
